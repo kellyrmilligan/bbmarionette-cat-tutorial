@@ -9,3 +9,7 @@ http://davidsulc.com/blog/2012/04/15/a-simple-backbone-marionette-tutorial/
 
 for the original tutorial. 
 
+Since this is using requirejs to load the templates, you will need to run this sample app from a local web server. 
+
+
+

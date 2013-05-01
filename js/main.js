@@ -1,8 +1,8 @@
 require.config({
   paths : {
-    backbone : 'lib/backbone',
-    underscore : 'lib/underscore',
-    jquery : 'lib/jquery',
+    backbone : 'lib/backbone-min',
+    underscore : 'lib/underscore-min',
+    jquery : 'lib/jquery.min',
     marionette : 'lib/backbone.marionette',
     'backbone.wreqr' : 'lib/backbone.wreqr',
     'backbone.babysitter' : 'lib/backbone.babysitter',
